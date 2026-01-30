@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Stem_Logo")(type "KiCad")(uri "${KIPRJMOD}/Stem_Logo.pretty")(options "")(descr ""))
+  (lib (name "NFC_Tic_Tac_Toe")(type "KiCad")(uri "${KIPRJMOD}/lib/NFC_Tic_Tac_Toe.pretty")(options "")(descr ""))
+)
