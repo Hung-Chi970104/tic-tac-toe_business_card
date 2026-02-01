@@ -1,5 +1,6 @@
 # Tic-Tac-Toe Business Card
 I was inspired by [Ryan Chan](https://www.youtube.com/watch?v=G4o2sbfmwy4) using ATMega328 to build a Tic-tac-toe business card. I decided to make my own version using RP2040 that runs on Micropython
+![schemtatic](assets/RP2040-tic-tac-toe.png)
 ### Features
 - Full tic-tac-toe gameplay experience
 - NFC feature that navigates others to my github link
@@ -8,7 +9,7 @@ I was inspired by [Ryan Chan](https://www.youtube.com/watch?v=G4o2sbfmwy4) using
 - USB-C for power supply + communication
 - NFC + antenna
 ### Images
-![Assembled](assets/Screenshot%202026-02-01%20135532.png)
-![Assembled](assets/Screenshot%202026-02-01%20135450.png)
-![Assembled](assets/Screenshot%202026-02-01%20135635.png)
-![Assembled](assets/Screenshot%202026-02-01%20135628.png)
+![schemtatic](assets/Screenshot%202026-02-01%20135532.png)
+![pcb_design](assets/Screenshot%202026-02-01%20135450.png)
+![3d_model_front](assets/Screenshot%202026-02-01%20135635.png)
+![3d_model_back](assets/Screenshot%202026-02-01%20135628.png)
