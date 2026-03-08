@@ -510,7 +510,7 @@
       "svg": "",
       "vrml": ""
     },
-    "page_layout_descr_file": ""
+    "page_layout_descr_file": "kicad-embed://no_space.kicad_wks"
   },
   "schematic": {
     "annotate_start_num": 0,
@@ -645,7 +645,7 @@
       "model_mode": 4,
       "workbook_filename": ""
     },
-    "page_layout_descr_file": "",
+    "page_layout_descr_file": "kicad-embed://no_space.kicad_wks",
     "plot_directory": "",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
@@ -661,10 +661,6 @@
     [
       "cab2660e-d37d-41d4-be4c-34850df00669",
       "Root"
-    ],
-    [
-      "bba2a221-8565-422b-a034-db0249b2ed81",
-      "NFC"
     ]
   ],
   "text_variables": {}
