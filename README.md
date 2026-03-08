@@ -1,5 +1,6 @@
 # Tic-Tac-Toe Business Card
 I was inspired by [Ryan Chan](https://www.youtube.com/watch?v=G4o2sbfmwy4) using ATMega328 to build a Tic-tac-toe business card. I decided to make my own version using RP2040 that runs on Micropython
+
 Video Demo: https://www.youtube.com/watch?v=_6fU3BlMHlY
 ![schemtatic](assets/tic-tac-toe_demo.png)
 # Features
