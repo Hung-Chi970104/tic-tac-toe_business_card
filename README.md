@@ -1,11 +1,10 @@
 # Tic-Tac-Toe Business Card
 This is a unique portfolio card that allows users to play tic-tac-toe on it. It also includes NFC feature to link to your favorite website!
+- PVP Mode: https://youtu.be/eI4JY9VbHxM
+- AI opponent: https://youtu.be/wkJYNbXEyfI
+- NFC demo: https://youtube.com/shorts/Xky8sBx_JWE
+![demo](assets/tic-tac-toe_demo.png)
 
-Full tic-tac-toe gameplay experience
-NFC feature that navigates others to my github link
-
-Video Demo: https://www.youtube.com/watch?v=_6fU3BlMHlY
-![schemtatic](assets/tic-tac-toe_demo.png)
 ## Features
 - Full tic-tac-toe gameplay experience
 - NFC feature that navigates others to my github link
