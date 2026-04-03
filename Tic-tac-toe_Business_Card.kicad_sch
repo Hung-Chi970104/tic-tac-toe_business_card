@@ -11453,7 +11453,7 @@
 				)
 			)
 		)
-		(property "Value" "33pF"
+		(property "Value" "15pF"
 			(at 289.56 77.47 90)
 			(effects
 				(font
@@ -16117,7 +16117,7 @@
 				)
 			)
 		)
-		(property "Value" "33pF"
+		(property "Value" "15pF"
 			(at 289.56 97.536 90)
 			(effects
 				(font
